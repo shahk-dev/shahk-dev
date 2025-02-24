@@ -9,6 +9,5 @@
 
 ## 📊 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaxriyor-dev&layout=compact&theme=dark&langs_count=5)  
-## 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaxriyor-dev&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+
 

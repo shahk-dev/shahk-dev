@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Turg'unboyov Shaxriyor
+### Full-stack Developer from Andijan, Uzbekistan
 
-<!--
-**Shaxriyor-dev/Shaxriyor-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Languages:
+HTML
+CSS
+JavaScript
+React
+Node.js
+Python
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats:
+![Shahryar's GitHub Stats](https://github.com/Shaxriyor-dev/Shaxriyor-dev/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with me:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shaxriyorturgunov000@gmail.com)
+
+        

@@ -10,7 +10,7 @@
 
 ## 🔧 Languages & Tools I Use:
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,figma" height="50" />
 </p>
 
@@ -29,7 +29,7 @@
 
 ## 📊 Most Used Languages
 
-<p align="center" style="background: linear-gradient(135deg, #7928CA 0%, #FF0080 100%); padding: 30px; border-radius: 18px; box-shadow: 0 8px 24px rgba(255, 0, 128, 0.3); max-width: 650px; margin: auto;">
+<p  style="background: linear-gradient(135deg, #7928CA 0%, #FF0080 100%); padding: 30px; border-radius: 18px; box-shadow: 0 8px 24px rgba(255, 0, 128, 0.3); max-width: 650px; margin: auto;">
 
   <strong style="font-size: 20px; color: #fff; margin-bottom: 12px; display: block; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
     Here's a visual snapshot of the programming languages I've been coding with the most recently:

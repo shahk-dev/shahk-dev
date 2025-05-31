@@ -9,11 +9,31 @@
 ---
 
 
-## 🔧 Languages & Tools I Use:
+## 🔧 Languages & Tools I Use
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,figma" height="50" />
 </p>
+
+---
+
+## 💻 Development & 🎨 Design
+
+> 🧠 Bridging the gap between clean code and elegant design.  
+> I love building interfaces that are both **functional** and **aesthetically pleasing** ✨
+
+### 🚀 Frontend Stack:
+- React
+- TypeScript
+- JavaScript
+- Bootstrap
+- Tailwind CSS
+
+
+### 🎨 Design Tools:
+- Figma
+- Adobe XD
+
 
 ---
 
@@ -25,23 +45,6 @@
 </p>
 
 ---
-
-## 💻 Development & 🎨 Design
-
-> Bridging the gap between clean code and elegant design ✨  
-> I enjoy crafting interfaces that are both functional and stunning.
-
-### 🚀 Frontend:
-React · Tailwind CSS · JavaScript
-
-### 🎨 Design Tools:
-Figma & Adobe XD
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" width="40" />
-</p>
-
 
 
 ## 📊 Most Used Languages

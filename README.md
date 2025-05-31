@@ -65,5 +65,14 @@ Figma & Adobe XD
 </p>
 
 
+<p align="center">
+  <a href="https://t.me/Shahk_web" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="25" />
+    <strong style="margin-left: 8px;">Join me on Telegram: @Shahk_web</strong>
+  </a>
+</p>
+
+
+
 
 

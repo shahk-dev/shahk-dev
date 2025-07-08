@@ -19,18 +19,7 @@
 > 🧠 Bridging the gap between clean code and elegant design.  
 > I love building interfaces that are both **functional** and **aesthetically pleasing** ✨
 
-### 🚀 Frontend Stack:
-- React
-- TypeScript
-- JavaScript
-- Bootstrap
-- Tailwind CSS
 
-### 🎨 Design Tools:
-- Figma
-- Adobe XD
-
----
 
 ## 📊 GitHub Stats
 <p align="center">

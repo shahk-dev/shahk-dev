@@ -1,49 +1,65 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF">Turg'unboyev Shahriyor</span></h1>
-<h3 align="center">💻 Full Stack Developer | 🚀 Web Explorer | 🌱 Constantly Growing</h3>
+<!-- GitHub Profile README -->
+
+<h1 align="center">👋 Salom, men Turg'unboyev Shahriyor</h1>
+<h3 align="center">💻 Frontend Developer | 🎨 UI/UX Designer | 🌐 Occasional Backend Dev</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Passionate+about+coding;Love+clean+and+modern+UI;Currently+learning+Node.js+%26+MongoDB;Open+to+collaborations!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Crafting+beautiful+web+experiences;Lover+of+clean+design+%26+code;Learning+Node.js+%26+MongoDB;Let's+build+something+awesome!" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🔧 Languages & Tools I Use
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,figma" height="50" />
-</p>
-
----
-
-## 💻 Development & 🎨 Design
-> 🧠 Bridging the gap between clean code and elegant design.  
-> I love building interfaces that are both **functional** and **aesthetically pleasing** ✨
-
-
-
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahk-dev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shahk-dev&theme=tokyonight&hide_border=true&border_radius=12" width="48%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,mongodb,figma,git" height="50" />
 </p>
 
 ---
 
-## 📊 Most Used Languages
-<p  style="background: linear-gradient(135deg, #7928CA 0%, #FF0080 100%); padding: 30px; border-radius: 18px; box-shadow: 0 8px 24px rgba(255, 0, 128, 0.3); max-width: 650px; margin: auto;">
+## 🧠 About Me
+- 💡 I focus on crafting smooth & modern **frontend** applications  
+- 🎨 Experienced with **Figma**, animations & UI/UX design  
+- 🔧 Build backend APIs with **Node.js + Express + MongoDB**  
+- 📱 Love responsive design and performance optimization  
+- 🤝 Open to freelance & collaboration opportunities  
+
+---
+
+## 📚 My Stack Breakdown
+
+| 💡 Skill Area         | 🔧 Tech Used                          | 🚀 Level         |
+|-----------------------|---------------------------------------|------------------|
+| Frontend (Main)       | React, JS, HTML, CSS, Tailwind        | **🔵 Advanced**   |
+| UI/UX Design          | Figma, Framer Motion, Animations      | **🟣 Creative**   |
+| Backend Development   | Node.js, Express, MongoDB             | **🟠 Intermediate** |
+| Version Control       | Git, GitHub, Git Flow                 | **🟢 Proficient**  |
+
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahk-dev&show_icons=true&theme=radical&hide_border=true&border_radius=12" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shahk-dev&theme=radical&hide_border=true&border_radius=12" width="48%" />
+</p>
+
+---
+
+
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahk-dev&layout=compact&theme=tokyonight&langs_count=10&border_radius=12&hide_border=false&bg_color=0D1117"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahk-dev&layout=compact&theme=radical&langs_count=10&border_radius=12&hide_border=true"
     alt="Top Languages"
   />
-  <p style="margin-top: 15px; color: #e0e0e0; font-style: italic; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-    These languages fuel my passion for building amazing projects and pushing my skills further.
-    Stay tuned for more coding adventures! 🚀
-  </p>
 </p>
 
+
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://t.me/Shahk_web" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="25" />
-    <strong style="margin-left: 8px;">Join me on Telegram: @Shahk_web</strong>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+  <a href="mailto:turgunboyevshahriyor@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <!-- Optional: Add your LinkedIn or portfolio if you have -->
 </p>

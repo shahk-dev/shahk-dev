@@ -17,11 +17,11 @@
 ---
 
 ## 🧠 About Me
-- 💡 I focus on crafting smooth & modern **frontend** applications  
-- 🎨 Experienced with **Figma**, animations & UI/UX design  
-- 🔧 Build backend APIs with **Node.js + Express + MongoDB**  
-- 📱 Love responsive design and performance optimization  
-- 🤝 Open to freelance & collaboration opportunities  
+`- 💡 I focus on crafting smooth & modern **frontend** applications  `
+`- 🎨 Experienced with **Figma**, animations & UI/UX design  `
+`- 🔧 Build backend APIs with **Node.js + Express + MongoDB** ` 
+`- 📱 Love responsive design and performance optimization  `
+`- 🤝 Open to freelance & collaboration opportunities  `
 
 ---
 

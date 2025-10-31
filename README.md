@@ -35,22 +35,6 @@
 | Version Control       | Git, GitHub, Git Flow                 | **🟢 Proficient**  |
 
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahk-dev&show_icons=true&theme=radical&hide_border=true&border_radius=12" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shahk-dev&theme=radical&hide_border=true&border_radius=12" width="48%" />
-</p>
-
----
-
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahk-dev&layout=compact&theme=radical&langs_count=10&border_radius=12&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
 
 
 ## 🌐 Connect With Me

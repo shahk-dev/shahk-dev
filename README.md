@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">👋 Salom, men Turg'unboyev Shahriyor</h1>
-<h3 align="center">💻 Frontend Developer | 🎨 UI/UX Designer | 🌐 Occasional Backend Dev</h3>
+<h1 align="center">👋 Salom, men Turg'unboyev Shakhriyor</h1>
+<h3 align="center">💻 Frontend Developer | 🎨 UI/UX Designer | 🌐 Backend Dev</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Crafting+beautiful+web+experiences;Lover+of+clean+design+%26+code;Learning+Node.js+%26+MongoDB;Let's+build+something+awesome!" alt="Typing SVG" />

@@ -7,32 +7,41 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Crafting+beautiful+web+experiences;Lover+of+clean+design+%26+code;Learning+Node.js+%26+MongoDB;Let's+build+something+awesome!" alt="Typing SVG" />
 </p>
 
----
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,mongodb,figma,git" height="50" />
-</p>
-
----
-
-## 🧠 About Me
-`💡 I focus on crafting smooth & modern **frontend** applications  
-🎨 Experienced with **Figma**, animations & UI/UX design  
-🔧 Build backend APIs with **Node.js + Express + MongoDB** 
-📱 Love responsive design and performance optimization  
-🤝 Open to freelance & collaboration opportunities `  
-
----
-
-## 📚 My Stack Breakdown
-
-| 💡 Skill Area         | 🔧 Tech Used                          | 🚀 Level         |
-|-----------------------|---------------------------------------|------------------|
-| Frontend (Main)       | React, JS, HTML, CSS, Tailwind        | **🔵 Advanced**   |
-| UI/UX Design          | Figma, Framer Motion, Animations      | **🟣 Creative**   |
-| Backend Development   | Node.js, Express, MongoDB             | **🟠 Intermediate** |
-| Version Control       | Git, GitHub, Git Flow                 | **🟢 Proficient**  |
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yusuff-Dev&style=flat-square&color=blue" alt="Profiel Views"/>
+</div>
+    <p>
+      <img
+        width="100%"
+        align="center"
+        src="https://github-readme-stats.vercel.app/api?username=Yusuff-dev&show_icons=true&locale=en"
+        alt="Yusuff-dev"
+      />
+    </p>
+    <p>
+      <img
+        width="100%"
+        align="center"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Yusuff-dev&"
+        alt="Yusuff-dev"
+      />
+    </p>
+    <p>
+      <img
+        width="100%"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=Yusuff-dev&show_icons=true&locale=en&layout=compact"
+        alt="Yusuff-dev"
+      />
+    </p>
+    <p>
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img
+          width="100%"
+          src="https://github-profile-trophy.vercel.app/?username=Yusuff-dev"
+          alt="Yusuff-dev"/>
+      </a>
+    </p>
 
 
 

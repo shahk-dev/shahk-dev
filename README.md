@@ -15,7 +15,7 @@
       <img
         width="100%"
         align="center"
-        src="https://github-readme-stats.vercel.app/api?username=Yusuff-dev&show_icons=true&locale=en"
+        src="https://github-readme-stats.vercel.app/api?username=shahk-dev&show_icons=true&locale=en"
         alt="Yusuff-dev"
       />
     </p>
@@ -23,14 +23,14 @@
       <img
         width="100%"
         align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Yusuff-dev&"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=shahk-dev&"
         alt="Yusuff-dev"
       />
     </p>
     <p>
       <img
         width="100%"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=Yusuff-dev&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=shahk-dev&show_icons=true&locale=en&layout=compact"
         alt="Yusuff-dev"
       />
     </p>
@@ -38,7 +38,7 @@
       <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img
           width="100%"
-          src="https://github-profile-trophy.vercel.app/?username=Yusuff-dev"
+          src="https://github-profile-trophy.vercel.app/?username=shahk-dev"
           alt="Yusuff-dev"/>
       </a>
     </p>

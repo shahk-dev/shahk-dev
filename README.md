@@ -4,47 +4,36 @@
 <h3 align="center">💻 Frontend Developer | 🎨 UI/UX Designer | 🌐 Backend Dev</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Crafting+beautiful+web+experiences;Lover+of+clean+design+%26+code;Learning+Node.js+%26+MongoDB;Let's+build+something+awesome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Crafting+beautiful+web+experiences;Lover+of+clean+design+%26+code;Learning+Node.js+%26+MongoDB;Let's+build+something+awesome!" alt="Typing SVG" />
 </p>
 
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yusuff-Dev&style=flat-square&color=blue" alt="Profiel Views"/>
+  <img src="https://komarev.com/ghpvc/?username=shahk-dev&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
-    <p>
-      <img
-        width="100%"
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=shahk-dev&show_icons=true&locale=en"
-        alt="Yusuff-dev"
-      />
-    </p>
-    <p>
-      <img
-        width="100%"
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=shahk-dev&"
-        alt="Yusuff-dev"
-      />
-    </p>
-    <p>
-      <img
-        width="100%"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=shahk-dev&show_icons=true&locale=en&layout=compact"
-        alt="Yusuff-dev"
-      />
-    </p>
-    <p>
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img
-          width="100%"
-          src="https://github-profile-trophy.vercel.app/?username=shahk-dev"
-          alt="Yusuff-dev"/>
-      </a>
-    </p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shahk-dev&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahk-dev&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahk-dev&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
 
 
+---
 
+## 🌱 Learning / Growth
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-Learning-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-Learning-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-Learning-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-Learning-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+</p>
+
+---
 
 ## 🌐 Connect With Me
 <p align="center">
@@ -54,5 +43,13 @@
   <a href="mailto:turgunboyevshahriyor@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <!-- Optional: Add your LinkedIn or portfolio if you have -->
+  <a href="https://www.linkedin.com/in/shahk-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shahk-dev&theme=radical" alt="GitHub Trophies"/>
 </p>

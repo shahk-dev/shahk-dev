@@ -1,36 +1,33 @@
-🔥 I am a Frontend Developer with 2 years of experience, currently learning Backend development.  
-🎥 I also make videos on YouTube about my journey in software development.  
-❤️ I work remotely and love to travel.  
+<h1>👋 Hi , Turg'unboyov Shakhriyor</h1>
 
-<a href="https://www.youtube.com/shahkweb" target="_blank">
-    <img src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" width="30px">
-    <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC1IjgI9If5ha3Ygs_1gSkvw?style=for-the-badge">
-    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC1IjgI9If5ha3Ygs_1gSkvw?style=for-the-badge">
-</a>
+💻 **Frontend Developer** | 2️⃣ years of experience  
+🛠️ Currently learning **Backend Development**  
+📂 Passionate about **coding, building projects, and learning new technologies**
+
 
 <a href="https://github.com/shahk-dev" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px">
     <img alt="GitHub Followers" src="https://img.shields.io/github/followers/shahk-dev?style=for-the-badge">
-    <img alt="GitHub Repos" src="https://img.shields.io/github/repos/shahk-dev?style=for-the-badge">
 </a>
 
-<br />
+<a href="https://instagram.com/azizbekkhabibullaev_" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30px">
+    <img alt="Instagram Followers" src="https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram">
+</a>
 
-### Languages and tools I work with:
+### 💻 Languages & Tools I Work With
 
-<code><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-10.png" width="30px"></code>
-<code><img src="https://batflat.org/themes/default/img/css-logo.png" width="20px"></code>
-<code><img src="https://www.nicepng.com/png/full/377-3771906_sass-sass-sass-sass-logo-white-png.png" width="30px"></code>
-<code><img src="https://icon-library.com/images/b-icon/b-icon-0.jpg" width="30px"></code>
-<code><img src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo-black-and-white.png" width="30px"></code>
-<code><img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-black-and-white.png" width="30px"></code>
-<code><img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-black-and-white.png" width="30px"></code>
-<code><img src="https://cdn.freebiesupply.com/logos/large/2x/material-ui-logo-black-and-white.png" width="30px"></code>
-<code><img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="30px"></code>
-<code><img src="https://cdn.freebiesupply.com/logos/large/2x/graphql-logo-black-and-white.png" width="30px"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30px" title="HTML5"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30px" title="CSS3"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="30px" title="Sass"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="30px" title="Bootstrap"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30px" title="JavaScript"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30px" title="React"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="30px" title="Redux"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="30px" title="Material-UI"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="30px" title="Next.js"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="30px" title="GraphQL"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30px" title="Python"></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px" title="Figma"></code>
 
-<br />
 
-- 📍 &nbsp; Current location: Uzbekistan Anywhere  
-- 📝 &nbsp; Ask me about anything, I am happy to help  
-- 📨 &nbsp; How to reach me: [@shaxriyorturgunoc000_](https://www.instagram.com/shahkweb/_)
